@@ -124,6 +124,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2ZqJ3YhHnh6G0H8l9F2F-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2ZqJ3YhHnh6G0H8l9F2F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="537" y="380" />
+              <mxPoint x="272" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
