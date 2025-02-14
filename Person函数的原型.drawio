@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K03_Tw2up7xJoAG7XmoY-1" value="function Object () { }" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontColor=light-dark(#FFFFFF,#DB7093);" vertex="1" parent="1">
+        <mxCell id="K03_Tw2up7xJoAG7XmoY-1" value="function Person () { }" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontColor=light-dark(#FFFFFF,#DB7093);" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="180" height="77" as="geometry" />
         </mxCell>
         <mxCell id="K03_Tw2up7xJoAG7XmoY-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="K03_Tw2up7xJoAG7XmoY-1">
@@ -20,7 +20,7 @@
             <mxRectangle width="90" height="57" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K03_Tw2up7xJoAG7XmoY-5" value="Object函数的原型对象" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontColor=light-dark(#FFFFFF,#DB7093);" vertex="1" parent="1">
+        <mxCell id="K03_Tw2up7xJoAG7XmoY-5" value="Person函数的原型对象" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontColor=light-dark(#FFFFFF,#DB7093);" vertex="1" parent="1">
           <mxGeometry x="100" y="60" width="390" height="217" as="geometry" />
         </mxCell>
         <mxCell id="K03_Tw2up7xJoAG7XmoY-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="K03_Tw2up7xJoAG7XmoY-5">
