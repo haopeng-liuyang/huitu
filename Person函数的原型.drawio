@@ -115,7 +115,7 @@
             <mxRectangle width="110" height="57" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K03_Tw2up7xJoAG7XmoY-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.003;entryY=1.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="K03_Tw2up7xJoAG7XmoY-9">
+        <mxCell id="K03_Tw2up7xJoAG7XmoY-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.003;entryY=1.065;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#FFB7C5);" edge="1" parent="1" target="K03_Tw2up7xJoAG7XmoY-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="499" as="sourcePoint" />
             <mxPoint x="487.0999999999999" y="129.99699999999996" as="targetPoint" />
