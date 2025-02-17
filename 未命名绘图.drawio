@@ -48,9 +48,9 @@
             <mxGeometry x="290" y="210" width="470" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="lastEffect=activeEffect；也就是第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-7">
+        <UserObject label="lastEffect=activeEffect；注：lastEffect保存第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="370" y="230" width="320" height="20" as="geometry" />
+            <mxGeometry x="290" y="230" width="480" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="执行state.name进入get拦截器， 此时 activeEffect 就是 第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-8">
