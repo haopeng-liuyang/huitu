@@ -20,8 +20,8 @@
             <mxGeometry x="250" y="90" width="500" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="进入第一个函数Fn方法体中" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-12">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+        <UserObject label="第一个函数Fn方法体中" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-12">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=light-dark(#000000,#DB7093);" parent="1" vertex="1">
             <mxGeometry x="250" y="150" width="500" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -45,15 +45,15 @@
         </UserObject>
         <UserObject label="执行最里面Effect函数，也创建出一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-6">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="280" y="230" width="470" height="20" as="geometry" />
+            <mxGeometry x="290" y="210" width="470" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="activeEffect=undefined" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="414" y="250" width="150" height="20" as="geometry" />
+            <mxGeometry x="440" y="230" width="150" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="执行state.name进入Get拦截器， 此时 activeEffect 就是 第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-8">
+        <UserObject label="执行state.name进入get拦截器， 此时 activeEffect 就是 第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="265" y="170" width="500" height="20" as="geometry" />
           </mxCell>
