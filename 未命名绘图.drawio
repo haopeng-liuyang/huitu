@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram name="第 1 页" id="z9Jr99tSmFlpplYTcZvV">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sXzzIV1jn2jNWPtJPwHh-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="900" height="510" as="geometry" />
+        </mxCell>
+        <UserObject label="activeEffect=undefined" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-7">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="390" y="70" width="150" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="sXzzIV1jn2jNWPtJPwHh-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="530" height="330" as="geometry" />
+        </mxCell>
+        <UserObject label="lastEffect=activeEffect，说明：lastEffect=undefined" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="230" y="90" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="activeEffect=this.&amp;nbsp; 说明：thisReactiveEffect对象" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-11">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="250" y="110" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="进入第一个函数Fn中" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-12">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="220" y="160" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="activeEffect=undefined" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-16">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="410" y="190" width="150" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="lastEffect=activeEffect，说明lastEffect=undefined" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-17">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="250" y="210" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="activeEffect=this.&amp;nbsp; 说明：this是每次调用effect函数就会生成一个ReactiveEffect对象" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-18">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="270" y="230" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="每次调用Effect函数，就会创建出一个ReactiveEffect对象" placeholders="1" name="Variable" id="sXzzIV1jn2jNWPtJPwHh-19">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="250" y="50" width="470" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
