@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sXzzIV1jn2jNWPtJPwHh-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="50" width="720" height="500" as="geometry" />
+          <mxGeometry x="180" y="50" width="720" height="480" as="geometry" />
         </mxCell>
         <mxCell id="sXzzIV1jn2jNWPtJPwHh-8" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=light-dark(#000000,#DB7093);textShadow=0;labelBackgroundColor=light-dark(#FFFFFF,#DB7093);" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="650" height="320" as="geometry" />
@@ -38,9 +38,9 @@
         <mxCell id="D3p0Co9FeNDzoVo0V3zW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="580" height="220" as="geometry" />
         </mxCell>
-        <UserObject label="activeEffect是全局的变量" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-4">
+        <UserObject label="activeEffect是全局的变量，&lt;div&gt;lastEffect是当前函数作用域中，保存最后一次的&lt;/div&gt;" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-4">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="410" y="20" width="150" height="20" as="geometry" />
+            <mxGeometry x="240" y="10" width="480" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="最里面Effect函数体中" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-6">
@@ -101,7 +101,7 @@
             <mxGeometry x="355" y="500" width="320" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="执行state.name进入get拦截器， 此时 activeEffect 就是 第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-34">
+        <UserObject label="执行state.age进入get拦截器， 此时 activeEffect 就是 第一个ReactiveEffect对象" placeholders="1" name="Variable" id="D3p0Co9FeNDzoVo0V3zW-34">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="265" y="430" width="500" height="20" as="geometry" />
           </mxCell>
